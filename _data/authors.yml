@@ -1,0 +1,19 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+thanguyen165:
+  name: thanguyen165
+  url: https://github.com/thanguyen165
+
+allforest01:
+  name: allforest01
+  url: https://github.com/allforest01
+
+el1ta:
+  name: el1ta
+  url: https://github.com/TeHoang
