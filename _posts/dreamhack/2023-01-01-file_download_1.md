@@ -3,7 +3,7 @@ title: file download 1
 author: thanguyen165
 date: 2023-01-01 07:00:00 +0700
 categories: [Practice, dreamhack]
-tags: [Web Exploitation, dreamhack]
+tags: [Web Exploitation, Path traversal]
 ---
 
 * Level: 1

@@ -3,7 +3,7 @@ title: 2023 BKCTF - Metadata checker
 author: thanguyen165
 date: 2023-08-19 00:00:00 +0700
 categories: [Write-ups, 2023_BKCTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation, Race conditions]
 ---
 
 ## Description

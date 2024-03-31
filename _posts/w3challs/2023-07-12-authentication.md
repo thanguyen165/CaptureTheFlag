@@ -3,7 +3,7 @@ title: Authentication
 author: thanguyen165
 date: 2023-07-12 07:00:00 +0700
 categories: [Practice, w3challs]
-tags: [Web Exploitation, w3challs]
+tags: [Web Exploitation, Authentication vulnerabilities]
 ---
 
 * Points: 9

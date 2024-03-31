@@ -3,7 +3,7 @@ title: HTTP - IP restriction bypass
 author: thanguyen165
 date: 2023-01-02 07:00:00 +0700
 categories: [Practice, rootme]
-tags: [Web Exploitation, rootme]
+tags: [Web Exploitation]
 ---
 
 * Points: 10

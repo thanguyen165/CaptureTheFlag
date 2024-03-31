@@ -3,7 +3,7 @@ title: Python - Server-side Template Injection Introduction
 author: thanguyen165
 date: 2023-01-02 07:00:00 +0700
 categories: [Practice, rootme]
-tags: [Web Exploitation, rootme]
+tags: [Web Exploitation, Server-side template injection]
 ---
 
 * Points: 25
